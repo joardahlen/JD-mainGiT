@@ -1,1 +1,4 @@
 Denne fila er laget på web'n skal kunne lagres lokalt.
+
+
+HER EN TEKST JEG HAR LAGET SENTRALT.
