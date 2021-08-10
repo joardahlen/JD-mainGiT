@@ -1,8 +1,4 @@
-# bare for å sjekke fil
-# dette lages på web'en skal kopieres ned til min PC
-
-# dette ser ut til å fungere utmerket.
-# Kommandoer som er nyttige:
+# Dette er en tekstfil som bare inneholder tekst.
 /*
   git push
   git pull
