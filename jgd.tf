@@ -9,8 +9,3 @@
   git status
 /*
   
-
-  /*
-  her kan jeg skrive hva som helst uten at det har noe å si
-  det er et kommentarfelt
-  /*
