@@ -49,4 +49,4 @@ variable "load_balancer_min_band" {
 variable "load_balancer_max_band" {
   description = "Load balancer max band"
   default = "10" #10 MB bandwith
-}
+}
