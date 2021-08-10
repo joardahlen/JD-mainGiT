@@ -1,3 +1,5 @@
 Denne fila er laget på web'n skal kunne lagres lokalt.
 
 Denne teksten har jeg lagret lokalt
+
+HER EN TEKST JEG HAR LAGET SENTRALT.
