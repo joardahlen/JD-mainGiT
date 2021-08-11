@@ -1,7 +1,0 @@
-# Dette er en tekstfil som bare inneholder tekst.
-/*
-  git push
-  git pull
-  git status
-/*
-  
